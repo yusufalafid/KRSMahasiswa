@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "134745719232",
+    "firebase_url": "https://krs-mobile-714a0.firebaseio.com",
+    "project_id": "krs-mobile-714a0",
+    "storage_bucket": "krs-mobile-714a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134745719232:android:b0f3c3795482b57c",
+        "android_client_info": {
+          "package_name": "id.uucp.krsmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134745719232-364dbvi8u5qghclr5birbg8phg3c92ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH35VMkp3Fy3VYz8sHbfJSoaov-p4Ljws"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

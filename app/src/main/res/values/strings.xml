@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KRS Mobile</string>
+    <string name="title_activity_login">Login</string>
+    <string name="minimum_password">Minimum Password 6 Karakter</string>
+    <string name="auth_failed">Autentikasi Gagal..</string>
+    <string name="student">student</string>
+    <string name="lecture">lecture</string>
+    <string name="login">LOGIN</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="tbh_mk">Tambah Mata Kuliah</string>
+    <string name="lihat_mk">Lihat Mata Kuliah</string>
+    <string name="lihat_mhs">Lihat Mahasiswa</string>
+    <string name="title_activity_login_mhs">LoginMhs</string>
+</resources>
